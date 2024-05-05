@@ -1,0 +1,1 @@
+aws eks update-kubeconfig --name cluster_name --region us-west-1
